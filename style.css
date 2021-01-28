@@ -1,0 +1,16 @@
+@media (max-width: 1605px) {
+  #navbar {
+    width: 20%;
+    float: left;
+    position: fixed;
+    margin-left:0
+  }
+}  
+
+/* and (min-device-width : 1605px)   
+and (max-device-width : 1024px)
+and (min-width: 1370px)  
+and (max-width: 1605px) 
+{ */
+
+
